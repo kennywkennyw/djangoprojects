@@ -8,7 +8,7 @@ django-webtest==1.9.4
 httpie==1.0.2
 idna==2.8
 Markdown==3.0.1
-Pygments==2.3.1
+Pygments==2.7.4
 pytz==2018.7
 requests==2.21.0
 six==1.12.0
